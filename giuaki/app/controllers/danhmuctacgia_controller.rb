@@ -1,0 +1,2 @@
+class DanhmuctacgiaController < ApplicationController
+end

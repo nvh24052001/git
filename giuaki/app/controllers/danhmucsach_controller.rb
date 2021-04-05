@@ -1,0 +1,2 @@
+class DanhmucsachController < ApplicationController
+end
